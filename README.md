@@ -19,8 +19,12 @@
 - [运行时栈帧结构](./note/运行时栈帧结构.md)
 - [方法调用](./note/方法调用.md)
 
+程序编译与代码优化
+
+- [早期（编译期）优化](./note/早期优化.md)
+
 ## 参考
 
-个人的学习笔记，参考《深入理解 Java 虚拟机》，部分内容 github 文章写得更加清晰易懂。笔记部分有 copy 文章。
+个人的学习笔记，参考《深入理解 Java 虚拟机》，部分内容 github 文章写得更加清晰易懂。笔记部分有 copy 文章内容。
 
 1. [Java 虚拟机底层原理知识总结](https://github.com/Ninoln/jvm/blob/master/README.md)
