@@ -24,8 +24,13 @@
 - [早期（编译期）优化](./note/早期优化.md)
 - [后期（运行期）优化](./note/运行期优化.md)
 
+内存模型与并发部分
+
+- [Java内存模型](./note/Java内存模型.md)
+- [Java线程](./note/Java线程.md)
+
 ## 参考
 
-个人的学习笔记，参考《深入理解 Java 虚拟机》，部分内容 github 文章写得更加清晰易懂。笔记部分有 copy 文章内容。
+个人的学习笔记，参考《深入理解 Java 虚拟机》。部分内容 github 文章写得更加清晰易懂，因此笔记有 copy github 文章内容。
 
 1. [Java 虚拟机底层原理知识总结](https://github.com/Ninoln/jvm/blob/master/README.md)
