@@ -28,6 +28,7 @@
 
 - [Java内存模型](./note/Java内存模型.md)
 - [Java线程](./note/Java线程.md)
+- [线程安全与锁优化](./note/线程安全与锁优化.md)
 
 ## 参考
 
